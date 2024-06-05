@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eric Wachaga
+- 👀 I’m interested in front-end and back-end development, data science and ML
+- 🌱 I’m currently learning Javascript, python
+- 💞️ I’m looking to collaborate on data science projects related to object detection and  video behavioral analysis
+- 📫 How to reach me on email: machariawachaga@gmail.com
